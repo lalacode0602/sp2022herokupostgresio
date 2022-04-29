@@ -1,0 +1,25 @@
+{
+  "name": "sp2022herokupostgresio",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lalacode0602/sp2022herokupostgresio.git"
+  },
+  "author": "Asanuma",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lalacode0602/sp2022herokupostgresio/issues"
+  },
+  "homepage": "https://github.com/lalacode0602/sp2022herokupostgresio#readme",
+  "dependencies": {
+    "ejs": "^3.1.7",
+    "express": "^4.18.0",
+    "pg": "^8.7.3"
+  }
+}
